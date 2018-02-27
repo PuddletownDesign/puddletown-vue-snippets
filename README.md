@@ -1,1 +1,1 @@
-# Puddletown React Snippets
+# Puddletown Vue Snippets

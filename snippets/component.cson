@@ -1,21 +1,31 @@
-".source.js":
-  'React Component':
-    'prefix': 'component'
+".text.html.vue":
+  'Vue Component':
+    'prefix': 'vuecomponent'
     'body': '''
-import React from 'react';
-import PropTypes from 'prop-types';
+<template>
+  <div class="template">
 
-class $1 extends React.Component {
-  constructor() {
-    super();
-  }
-  
-  render() {
-    return (
-        $0
-    );
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'template',
+
+  data() {
+    return {
+    }
+  },
+  methods: {
+
+  },
+  computed: {
+
   }
 }
+</script>
 
-export default $1;
-    '''
+<style scoped lang="css">
+
+</style>
+'''
