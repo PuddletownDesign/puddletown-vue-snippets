@@ -1,17 +1,17 @@
 {
-  "name": "puddletown-react-snippets",
-  "main": "./lib/puddletown-react-snippets",
-  "version": "1.0.1",
-  "description": "A collection of React snippets from Puddletown Design",
-  "keywords": [
-    "snippets",
-    "javascript",
-    "react"
-  ],
-  "repository": "https://github.com/PuddletownDesign/puddletown-react-snippets",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {}
+    "name": "puddletown-vue-snippets",
+    "main": "./lib/puddletown-react-snippets",
+    "version": "1.0.1",
+    "description": "A collection of Vue snippets from Puddletown Design",
+    "keywords": [
+        "snippets",
+        "javascript",
+        "vue"
+    ],
+    "repository": "https://github.com/PuddletownDesign/puddletown-vue-snippets",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
 }
