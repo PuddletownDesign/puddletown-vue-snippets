@@ -1,0 +1,6 @@
+".text.html.vue":
+  'v-bind':
+    'prefix': 'vbind'
+    'body': '''
+:$1="$2"
+'''

@@ -3,14 +3,14 @@
     'prefix': 'vuecomponent'
     'body': '''
 <template>
-  <div class="template">
+  <div>
 
   </div>
 </template>
 
 <script>
 export default {
-  name: 'template',
+  name: '',
 
   data() {
     return {
